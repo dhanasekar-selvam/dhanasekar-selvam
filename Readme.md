@@ -1,5 +1,6 @@
 <h3 style=" font-family: 'Tahoma';"><b>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="21px"> I’m Dhanasekar.</b></h3>
-
+<p style=" font-family: 'Tahoma';">Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.
+</p>
 <h3 align="center" style=" font-family: 'Tahoma';"><b>Tech Stack</b></h3>
 
 <h3 align="center" style=" font-family: 'Tahoma';"><b>Languages</b></h3>
@@ -68,6 +69,13 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhanasekar-selvam&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
+<h3 align="center" style=" font-family: 'Tahoma';"><b>Get In Touch</b></h3>
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/dhanasekar-selvam-161a68192/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://twitter.com/Dhanase48361399"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+		<a href="https://www.hackerrank.com/dhanasekar898"><img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
+</p>
 
 
 
