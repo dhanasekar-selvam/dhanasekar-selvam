@@ -26,7 +26,7 @@
 
 <p align="center">
     <a href="">
-        <img src="https://img.shields.io/badge/-Angular%20Js-red" alt="Angular JS" />
+        <img src="https://img.shields.io/badge/-Angular%20Js-red?style=for-the-badge&logo=node.js&logoColor=white" alt="Angular JS" />
     </a>
     <a href="">
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS" />
