@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Php" />
     </a>
     <a href="">
-        <img src="https://img.shields.io/badge/-TypeScript-blue" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/-TypeScript-blue??style=for-the-badge&logo=typescript&logoColor=blue"" alt="TypeScript" />
     </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 <p align="center">
     <a href="">
-        <img src="https://img.shields.io/badge/-Angular%20Js-red?style=for-the-badge&logo=node.js&logoColor=white" alt="Angular JS" />
+        <img src="https://img.shields.io/badge/-Angular%20Js-red?style=for-the-badge&logo=angular.js&logoColor=white" alt="Angular JS" />
     </a>
     <a href="">
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS" />
@@ -44,7 +44,7 @@
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     </a>
     <a href="">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Angular Material UI -38B2AC?style=for-the-badge&logo=Angular-Material-UI&logoColor=white" alt="Angular Material UI" />
     </a>
 </p>
 
@@ -68,3 +68,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanasekar-selvam&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhanasekar-selvam&layout=compact&langs_count=8&theme=dark"/>
 </p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanasekar-selvam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanasekar-selvam&count_private=true&show_icons=true&theme=dracula
+)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
