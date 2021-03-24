@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Php" />
     </a>
     <a href="">
-        <img src="https://img.shields.io/badge/-TypeScript-blue??style=for-the-badge&logo=typescript&logoColor=blue"" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=blue" alt="TypeScript" />
     </a>
 </p>
 
