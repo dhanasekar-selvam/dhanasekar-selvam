@@ -110,7 +110,6 @@
 <p align="center">
 	<a href="https://www.linkedin.com/in/dhanasekar-selvam-161a68192/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/Dhanase48361399"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-	[<img align="left" alt="dhanasekar-selvam-161a68192 | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 
 </p>
 
