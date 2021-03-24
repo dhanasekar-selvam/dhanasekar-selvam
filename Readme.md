@@ -74,7 +74,7 @@
 <p align="center">
 	<a href="https://www.linkedin.com/in/dhanasekar-selvam-161a68192/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/Dhanase48361399"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-		<a href="https://www.hackerrank.com/dhanasekar898"><img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
+		<a href="https://www.hackerrank.com/dhanasekar898"><img src="https://img.icons8.com/windows/32/26e07f/hackerrank.png"/></a>
 </p>
 
 
