@@ -18,6 +18,7 @@
 
 
 <body>
+	<br>
 ## Tech Stack :computer:
 
 <br>
@@ -96,7 +97,7 @@
 </table>
 
 
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<center><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p></center>
 
 <p align="center" style=" font-family: 'Tahoma';">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanasekar-selvam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
