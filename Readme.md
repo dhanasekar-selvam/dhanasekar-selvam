@@ -1,6 +1,22 @@
-<h3 style=" font-family: 'Tahoma';"><b>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="21px"> I’m Dhanasekar.</b></h3>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dhanasekar</h1>
+<h3 align="center">Software Engineer | Full Stack Developer| Web Developer</h3>
+
+
 <p style=" font-family: 'Tahoma';">Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.
 </p>
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+
+✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔ I’m currently learning ** DevOps **
+✔ I’m looking to collaborate with  any **Open - Source contribution**<br>
+✔ I regularly learn articles on [GeeksforGeeks](https://www.geeksforgeeks.org/) <br>
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+
 <h3 align="center" style=" font-family: 'Tahoma';"><b>Tech Stack</b></h3>
 
 <h3 align="center" style=" font-family: 'Tahoma';"><b>Languages</b></h3>
@@ -62,18 +78,20 @@
 
 
 
-<h3 align="center" style=" font-family: 'Tahoma';"><b>GitHub Analytics</b></h3>
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 
 <p align="center" style=" font-family: 'Tahoma';">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanasekar-selvam&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhanasekar-selvam&layout=compact&langs_count=8&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanasekar-selvam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhanasekar-selvam&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
-<h3 align="center" style=" font-family: 'Tahoma';"><b>Get In Touch</b></h3>
+<h3 align="center" style=" font-family: 'Tahoma';"><b>Contact Me</b></h3>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/dhanasekar-selvam-161a68192/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/Dhanase48361399"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	[<img align="left" alt="dhanasekar-selvam-161a68192 | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+
 </p>
 
 
