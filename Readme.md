@@ -7,6 +7,7 @@
 
 <p style=" font-family: 'Tahoma';">Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.
 </p>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
@@ -14,68 +15,85 @@
 ✔ I’m currently learning ** DevOps **
 ✔ I’m looking to collaborate with  any **Open - Source contribution**<br>
 ✔ I regularly learn articles on [GeeksforGeeks](https://www.geeksforgeeks.org/) <br>
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 
-<h3 align="center" style=" font-family: 'Tahoma';"><b>Tech Stack</b></h3>
+<body>
+## Tech Stack :computer:
 
-<h3 align="center" style=" font-family: 'Tahoma';"><b>Languages</b></h3>
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>Ansible</center></b></span> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+</td>
 
-<p align="center">
-    <a href="">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5" />
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3" />
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Php" />
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=blue" alt="TypeScript" />
-    </a>
-</p>
+<td align="center" width="20%">
+<span><b><center>AWS</center></b></span> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+</td>
 
-<h3 align="center" style=" font-family: 'Tahoma';"><b>Frameworks</b></h3>
+<td align="center" width="20%">
+<span><b><center>Docker</center></b></span> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+</td>
 
-<p align="center">
-    <a href="">
-        <img src="https://img.shields.io/badge/-Angular%20Js-red?style=for-the-badge&logo=angular.js&logoColor=white" alt="Angular JS" />
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS" />
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS" />
-    </a>
-</p>
+<!--<tr>-->
+<!--<td align="center" width="20%">-->
+<!--<span><b><center>Flask</center></b></span> -->
+<!--<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> -->
+<!--</td>-->
 
-<p align="center">
-    <a href="">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/Angular Material UI -38B2AC?style=for-the-badge&logo=Angular-Material-UI&logoColor=white" alt="Angular Material UI" />
-    </a>
-</p>
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+</td>
+</tr>
 
-<h3 align="center" style=" font-family: 'Tahoma';"><b>Databases</b></h3>
+<td align="center" width="20%">
+<span><b><center>Jenkins</center></b></span> 
+<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
+</td>
 
-<p align="center">
-    <a href="">
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue" alt="MySQL" />
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    </a>
-</p>
+<!--<tr>-->
+<!--<td align="center" width="20%">-->
+<!--<span><b><center>Kubernetes</center></b></span> -->
+<!--<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> -->
+<!--</td>-->
 
+<td align="center" width="20%">
+<span><b><center>Linux System Administration</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+</td>
+
+
+
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+</td>
+
+<!--<tr>-->
+<td align="center" width="20%">
+<span><b><center>MongoDB</center></b></span> 
+<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
+</td>
+
+<!--<td align="center" width="20%">-->
+<!--<span><b><center>Nginx</center></b></span> -->
+<!--<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> -->
+<!--</td>-->
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+</td>
+</tr>
+
+</tbody>
+</table>
 
 
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
