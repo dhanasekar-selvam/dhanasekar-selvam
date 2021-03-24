@@ -62,7 +62,6 @@
 
 
 <h3 align="center" style=" font-family: 'Tahoma';"><b>GitHub Analytics</b></h3>
-<h3 align="center" style=" font-family: 'Tahoma';"><b>GitHub Analytics</b></h3>
 
 <p align="center" style=" font-family: 'Tahoma';">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanasekar-selvam&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -70,10 +69,6 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanasekar-selvam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanasekar-selvam&count_private=true&show_icons=true&theme=dracula
-)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
