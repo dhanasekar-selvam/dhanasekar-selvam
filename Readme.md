@@ -30,10 +30,10 @@
 <img height=60px src="https://i.ibb.co/hmp59dw/angular.jpg"> 
 </td>
 
-<td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
-</td>
+  <td align="center" width="20%">
+        <br>
+<span><b><center>Java</center></b></span> 
+<img height=65px src="https://i.ibb.co/LpMZCL3/png-transparent-java-programming-programming-language-computer-programming-others-miscellaneous-text.png"> </td>
 
 <td align="center" width="20%">
 <span><b><center>Docker</center></b></span> 
@@ -66,7 +66,6 @@
 
 <td align="center" width="20%">
         <br>
-
 <span><b><center>Linux System Administration</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
 </td>
@@ -75,7 +74,6 @@
 
 <td align="center" width="20%">
         <br>
-
 <span><b><center>Python</center></b></span> 
 <img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
 </td>
@@ -83,7 +81,6 @@
 <!--<tr>-->
 <td align="center" width="20%">
         <br>
-
 <span><b><center>MongoDB</center></b></span> 
 <img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
 </td>
@@ -101,20 +98,17 @@
 </td>
 <td align="center" width="20%">
         <br>
-
 <span><b><center>Node Js</center></b></span> 
 <img height=65px src="https://i.ibb.co/mhZF85f/node.png"> 
 </td>
 <td align="center" width="20%">
         <br>
-
 <span><b><center>Angular Material</center></b></span> 
 <img height=65px src="https://i.ibb.co/vLM6MDy/angular-material.png"> 
 </td>
 
 <td align="center" width="20%">
         <br>
-
 <span><b><center>TypeScript</center></b></span> 
 <img height=65px src="https://i.ibb.co/NrHLprs/vscode-icons-type-typescript-1324451507894042344.png"> 
 </td>
@@ -124,37 +118,26 @@
 <tr>
     <td align="center" width="20%">
         <br>
-
 <span><b><center>PostgreSql</center></b></span> 
 <img height=65px src="https://i.ibb.co/T027Ljn/post.png"> 
 </td>
 <td align="center" width="20%">
         <br>
-
 <span><b><center>Express Js</center></b></span> 
 <img height=65px src="https://i.ibb.co/sbQL5LY/express.png"> 
 </td>
 <td align="center" width="20%">
         <br>
-
 <span><b><center>Bootstrap</center></b></span> 
 <img height=65px src="https://i.ibb.co/MgghTjy/bootstrap.jpg"> 
 </td>
 <td align="center" width="20%">
-        <br>
-
+<br>
 <span><b><center>PHP</center></b></span> 
 <img height=65px src="https://i.ibb.co/pnZ9MsV/download.png"> 
 </td>
 </tr>
 
-<tr>
-    <td align="center" width="20%">
-        <br>
-
-<span><b><center>Java</center></b></span> 
-<img height=65px src="https://i.ibb.co/LpMZCL3/png-transparent-java-programming-programming-language-computer-programming-others-miscellaneous-text.png"> 
-</tr>
 
 </tbody>
 </table>
