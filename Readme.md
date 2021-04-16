@@ -12,7 +12,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently learning ** DevOps **
+✔ I’m currently learning ** DevOps **<br>
 ✔ I’m looking to collaborate with  any **Open - Source contribution**<br>
 ✔ I regularly learn articles on [GeeksforGeeks](https://www.geeksforgeeks.org/) <br>
 
