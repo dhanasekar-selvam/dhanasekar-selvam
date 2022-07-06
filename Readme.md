@@ -91,7 +91,7 @@
 <!--<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> -->
 <!--</td>-->
 
-<tr>
+
 <td align="center" width="20%">
     <br>
 <span><b><center>SQL</center></b></span> 
@@ -102,6 +102,7 @@
 <span><b><center>Node Js</center></b></span> 
 <img height=65px src="https://i.ibb.co/mhZF85f/node.png"> 
 </td>
+	<tr>
 <td align="center" width="20%">
         <br>
 <span><b><center>Angular Material</center></b></span> 
@@ -115,8 +116,7 @@
 </td>
 
 
-</tr>
-<tr>
+
     <td align="center" width="20%">
         <br>
 <span><b><center>PostgreSql</center></b></span> 
@@ -127,6 +127,8 @@
 <span><b><center>Express Js</center></b></span> 
 <img height=65px src="https://i.ibb.co/sbQL5LY/express.png"> 
 </td>
+	</tr>
+		<tr>
 <td align="center" width="20%">
         <br>
 <span><b><center>Bootstrap</center></b></span> 
