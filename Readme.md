@@ -128,12 +128,13 @@
 <img height=65px src="https://i.ibb.co/sbQL5LY/express.png"> 
 </td>
 	</tr>
-		<tr>
+		
 <td align="center" width="20%">
         <br>
 <span><b><center>Bootstrap</center></b></span> 
 <img height=65px src="https://i.ibb.co/MgghTjy/bootstrap.jpg"> 
 </td>
+	<tr>
 <td align="center" width="20%">
 <br>
 <span><b><center>PHP</center></b></span> 
