@@ -50,13 +50,13 @@
 <span><b><center>Git</center></b></span> 
 <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
-</tr>
 
-<td align="center" width="20%">
+
+<!--<td align="center" width="20%">
     <br>
 <span><b><center>Jenkins</center></b></span> 
 <img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
-</td>
+</td>-->
 
 <!--<tr>-->
 <!--<td align="center" width="20%">-->
@@ -69,6 +69,7 @@
 <span><b><center>Linux System Administration</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
 </td>
+	</tr>
 
 
 
