@@ -35,10 +35,10 @@
 <span><b><center>Java</center></b></span> 
 <img height=65px src="https://i.ibb.co/LpMZCL3/png-transparent-java-programming-programming-language-computer-programming-others-miscellaneous-text.png"> </td>
 
-<td align="center" width="20%">
+<!--<td align="center" width="20%">
 <span><b><center>Docker</center></b></span> 
 <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
-</td>
+</td>-->
 
 <!--<tr>-->
 <!--<td align="center" width="20%">-->
